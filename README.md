@@ -28,7 +28,7 @@ Url after using Jenkins:
 
 
 
-SonarQube Info:
+SonarQube Info for this little project:
 
 ![Снимок экрана от 2024-02-06 18-41-21](https://github.com/Bloody-Mary/simple-docker-app/assets/37978402/11c222aa-35dc-4dc2-a740-01f51dc644a5)
 
