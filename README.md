@@ -25,3 +25,12 @@ Simple Docker application for Itgirlschool class.
 Url after using Jenkins:
 
 ![Screenshot from 2024-01-30 20-34-30](https://github.com/Bloody-Mary/simple-docker-app/assets/37978402/37d70f2a-b8d0-4076-9c14-cbc245a06c0d)
+
+
+
+SonarQube Info:
+
+![Снимок экрана от 2024-02-06 18-41-21](https://github.com/Bloody-Mary/simple-docker-app/assets/37978402/11c222aa-35dc-4dc2-a740-01f51dc644a5)
+
+
+![Снимок экрана от 2024-02-06 18-42-17](https://github.com/Bloody-Mary/simple-docker-app/assets/37978402/d590f751-169b-4adc-9cf5-912cafd40239)
